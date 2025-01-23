@@ -1,0 +1,5 @@
+streamlit==1.25.0
+solana==0.26.0
+serum-py==0.4.1
+asyncio
+python-dotenv
